@@ -1,0 +1,20 @@
+.card{
+  width: fit-content !important; 
+ height: 400px !important;
+ background-color: #eeda23 !important;
+}
+
+.card:hover{
+ background-color: rgb(230, 81, 210) !important;
+ transform: scale(1.03); 
+ 
+}
+
+.price{
+ color: #29310b;
+}
+
+h1 {
+ text-align: center;
+ color: rgb(206, 34, 86);
+}
